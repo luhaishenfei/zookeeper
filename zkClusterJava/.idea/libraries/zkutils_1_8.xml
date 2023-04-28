@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zkutils-1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/zkutils-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
